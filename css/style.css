@@ -1,0 +1,16 @@
+@font-face{
+    font-family:"bostvina" ;
+    src: url(../assets/fonts/Bostvina.ttf );
+}
+
+#nav{
+    font-family: "bostvina";
+}
+
+#dropdown{
+    font-family: "bostvina";
+}
+
+.mt-50{
+    margin-top: 8%;
+}
