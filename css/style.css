@@ -14,3 +14,17 @@
 .mt-50{
     margin-top: 8%;
 }
+footer {
+    color: #ffffff;
+    width: 100%;
+    background-color:#f3969a;
+}
+
+footer .credit-container {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: rgb(255, 255, 255);
+}
+.d-flex-
